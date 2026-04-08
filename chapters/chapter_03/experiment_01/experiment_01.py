@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import os
 
-from shared import generate_data, polynomial_basis, solve_ls
+from fit_lab.utils import generate_data, polynomial_basis, solve_ls
 
 # ------------------------
 # Metrics

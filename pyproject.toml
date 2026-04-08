@@ -1,10 +1,11 @@
 [project]
-name = "classical_fit"
+name = "fit_lab"
 version = "0.1.0"
 
 [build-system]
-requires = ["setuptools"]
+requires = ["setuptools>=65"]
 build-backend = "setuptools.build_meta"
 
 [tool.setuptools]
-packages = ["shared"]
+packages = ["fit_lab"]
+package-dir = {"" = "src"}
