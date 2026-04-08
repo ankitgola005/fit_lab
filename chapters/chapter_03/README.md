@@ -6,14 +6,14 @@ This chapter explores linear regression from a **functional, probabilistic, and 
 
 ## Experiments
 
-| Experiment | Title                            | Concept                                      | Link                              |
-| ---------- | -------------------------------- | -------------------------------------------- | --------------------------------- |
-| 01         | Basis Functions & Model Capacity | Feature mapping, underfitting vs overfitting | [Open](./experiment_01/README.md) |
-| 02         | Least Squares = MLE              | Gaussian likelihood, closed-form solution    | [Open](./experiment_02/README.md) |
-| 03         | Bias-Variance Decomposition      | Error decomposition, model stability         | [Open](./experiment_03/README.md) |
-| 04         | Regularization (Ridge)           | Ill-conditioning, weight shrinkage           | [Open](./experiment_04/README.md) |
-| 05         | Bayesian Linear Regression       | Prior, posterior over weights                | [Open](./experiment_05/README.md) |
-| 06         | Predictive Uncertainty           | Variance in predictions                      | [Open](./experiment_06/README.md) |
+| Experiment | Title                              | Concept                                      | Link                              |
+| ---------- | ---------------------------------- | -------------------------------------------- | --------------------------------- |
+| 01         | Basis Functions & Model Capacity   | Feature mapping, underfitting vs overfitting | [Open](./experiment_01/README.md) |
+| 02         | (TODO) Least Squares = MLE         | Gaussian likelihood, closed-form solution    | [Open](./experiment_02/README.md) |
+| 03         | (TODO) Bias-Variance Decomposition | Error decomposition, model stability         | [Open](./experiment_03/README.md) |
+| 04         | (TODO) Regularization (Ridge)      | Ill-conditioning, weight shrinkage           | [Open](./experiment_04/README.md) |
+| 05         | (TODO) Bayesian Linear Regression  | Prior, posterior over weights                | [Open](./experiment_05/README.md) |
+| 06         | (TODO) Predictive Uncertainty      | Variance in predictions                      | [Open](./experiment_06/README.md) |
 
 ---
 

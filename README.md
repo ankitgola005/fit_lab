@@ -8,9 +8,9 @@ This repo is structured as a series of **chapter-wise experiments**, where each 
 
 ## Chapters
 
-| Chapter                              | Topic                        | Experiments                                                                        |
-| ------------------------------------ | ---------------------------- | ---------------------------------------------------------------------------------- |
-| [Chapter 03](./chapter_03/README.md) | Linear Models for Regression | Basis functions, least squares, bias-variance, regularization, Bayesian regression |
+| Chapter                                       | Topic                        | Experiments                                                                        |
+| --------------------------------------------- | ---------------------------- | ---------------------------------------------------------------------------------- |
+| [Chapter 03](./chapters/chapter_03/README.md) | Linear Models for Regression | Basis functions, least squares, bias-variance, regularization, Bayesian regression |
 
 ---
 

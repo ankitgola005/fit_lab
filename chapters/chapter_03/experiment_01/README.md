@@ -40,7 +40,10 @@ M \in {0, 1, 2, 3, 4, 8, 12, 16}
 $$
 
 - Model fitted using **least squares (closed-form)**
-
+- To replicate the experiment, run from current directory:
+```
+python -u experiment_01.py
+```
 ---
 
 ## 4. Results
